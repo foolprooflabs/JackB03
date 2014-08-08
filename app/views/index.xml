@@ -1,0 +1,7 @@
+<Alloy>
+	<NavigationWindow id="navwin">
+		<Window class="container">
+			<Label id="label" onClick="doClick">Menu</Label>
+		</Window>
+	</NavigationWindow>
+</Alloy>
